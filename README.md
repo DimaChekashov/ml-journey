@@ -1,1 +1,1 @@
-# ml-journey
+# ML Journey
